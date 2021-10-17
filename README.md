@@ -1,2 +1,2 @@
 # Tim-Chou21.github.io
-# Personal Website
+# Tim Chou's Personal Website
